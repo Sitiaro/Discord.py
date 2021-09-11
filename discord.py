@@ -3,7 +3,7 @@ from discord.ext import commands
 import discord
 import levels
 
-cogs = [levels] ##class system which allows modular design
+cogs = [levels] #class system which allows modular design
 
 client = commands.Bot[command_prefix='.', intents = discord.Intents.all()] #initiating a client
 
