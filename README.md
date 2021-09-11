@@ -1,5 +1,5 @@
 # Discord.py
-A discord bot with a levelling system (like mee6)
+A discord bot with a leveling system (like mee6)
 
 ## Pre-requisites
 
