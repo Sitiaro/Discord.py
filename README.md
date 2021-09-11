@@ -37,10 +37,20 @@ Run the following commands on your terminal to install the dependencies;-
 
 ```pip install dnspython```
 
-Next, clone the repository using ```git clone https://www.github.com/Sitiaro/Discord.py'''
+Next, clone the repository using ```git clone https://www.github.com/Sitiaro/Discord.py```
 
 ### Note
 
 Once you're done with all those steps, head over to levels.py in your IDE and read the comments bc you'll have to make a few changes there to make it work.
 
+## Execution
 
+Once you're changed those things, add the bot to your server (refer to the developer portal documentation if you don't know how to) and run the bot using-
+
+```python discord.py```
+
+
+Enjoy <3
+
+
+**Ps. You can start a discussion if you face any difficulties and I'll try getting back ASAP, thanks.**
