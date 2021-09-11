@@ -9,7 +9,7 @@ Website: ```https://discord.com/developers/docs/intro```
 
 - A MongoDB account (that's what's used as a database)
 
-If you don't have an account then you can simply head over to [this website](https://account.mongodb.com/)
+If you don't have an account then you can simply head over to [this website.](https://account.mongodb.com/)
 
 Follow the following steps once you sign up for an account/sign in with your Gmail account (preferred):
 
