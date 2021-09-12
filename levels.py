@@ -15,7 +15,7 @@ cluster = MongoClient("") #put the string of text that you copied in "" from Mon
  
 collection_name = cluster["database_name"]["collection_name"] #replace the database_name and the collection_name from MongoDB here.
  
-#niitiation
+#initiation
 class levelsys(commands.Cog):
     def __init__(self, client):
         self.client = client
