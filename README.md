@@ -31,7 +31,7 @@ On your MongoDB's main page, head over to **Collections** and select **Add My Ow
 
 Run the following commands on your terminal to install the dependencies;-
 
-```pip install disord```
+```pip install discord```
 
 ```pip install pymongo```
 
