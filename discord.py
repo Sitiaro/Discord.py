@@ -1,7 +1,7 @@
 #importing modules
 from discord.ext import commands
 import discord
-import levels
+import levic_cogs
 import asyncio
 
 cogs = [levels] #class system which allows modular design
