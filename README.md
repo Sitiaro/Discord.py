@@ -1,5 +1,5 @@
 # Discord.py
-A discord bot with a leveling system (like mee6) and anti-spam.
+A discord bot with a leveling system (like mee6), anti-spam, and a basic music system!
 
 ## Pre-requisites
 
